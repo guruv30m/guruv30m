@@ -72,14 +72,6 @@ Focus:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guruv30m&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=guruv30m&theme=tokyonight" />
-</p>
-
----
 
 ## 🏴‍☠️ Mindset
 
