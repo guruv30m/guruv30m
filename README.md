@@ -2,7 +2,7 @@
 
 # 🛡️ Guru Balikai
 
-### Offensive Security ⚔️ | Defensive Security 🛡️ | Security Engineering 🚀
+### Offensive Security ⚔️ | Defensive Security 🛡️ | Security Enthusiast 🚀
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Think+Like+an+Attacker;Defend+Like+an+Engineer;Offensive+%26+Defensive+Security;Always+Learning+Always+Building" alt="Typing SVG" />
 
